@@ -13,3 +13,5 @@ hollow y remnant, sifu, stray, rer2
 Las partidas de Remnant 2 se guardan en la siguiente ruta en PC: C:\Users\[nombre de usuario]\AppData\Local\Remnant\Saved\SaveGames
 
 Las partidas de Hollow Knight se guardan en la carpeta %appdata%\\LocalLow\\Team Cherry\\Hollow Knight
+
+Las partidas de Sifu se guardan automáticamente después de cada combate, pero no se puede volver atrás para deshacer una muerte. Para manipular las partidas guardadas, puedes usar la nube: antes de un jefe o combate difícil, sube tu partida a la nube y, si mueres, cierra el juego y descarga la partida guardada de la nube. Para PC, las partidas guardadas en los archivos locales se encuentran en {C:\Users\(NOMBRE)\AppData\Local\Sifu\Saved\SaveGames\(NÚMERO ALEATORIO)}. 
