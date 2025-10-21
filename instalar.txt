@@ -1,0 +1,15 @@
+visual con codeLLDB, c/c++,gitlens,spanish lenguage pack for..., .NET install tool, c/c++ extension pack, c/c++ runner, c/c++ themes, c#, CMake, Cmake Tools, code runner, git blame, git Extension pack, git graph, git history, gitignore, icons, project manager,open in github,bitbucket, rainbow csv, save and run, vscode-pdf, auto-save on window
+
+
+
+postman, workbench, xampp, c/c++, c#, git, msql worlbench y sqllite
+
+python con anaconda capaz, gnu prolog, haskell
+
+epic, msi, steam, ultima version de amd, ig, deamon tools lite, avast, spoty, google, cuenta de xbox
+
+hollow y remnant, sifu, stray, rer2
+
+Las partidas de Remnant 2 se guardan en la siguiente ruta en PC: C:\Users\[nombre de usuario]\AppData\Local\Remnant\Saved\SaveGames
+
+Las partidas de Hollow Knight se guardan en la carpeta %appdata%\\LocalLow\\Team Cherry\\Hollow Knight
